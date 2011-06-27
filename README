@@ -9,7 +9,7 @@ Toggl should dump record that look similar to:
     
 To use this simply:
 
-    git clone
+    git clone git://github.com/wiseleyb/toggl_to_harvest.git
     cd toggl_to_harvest
     ruby convert.rb _toggl-csv-file_
     
