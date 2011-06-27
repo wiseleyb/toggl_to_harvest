@@ -1,6 +1,6 @@
 = Convert Toggl Time Entries to Harvest
 
-This is a very simple import tool for converting "Toggl":http://toggl.com time entry CSV exports to a format that you can import into "Harvest":http://www.getharvest.com/
+This is a very simple import tool for converting Toggl http://toggl.com time entry CSV exports to a format that you can import into Harvest http://www.getharvest.com/
 
 Toggl should dump record that look similar to:
 
